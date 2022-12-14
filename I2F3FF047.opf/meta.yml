@@ -1,0 +1,28 @@
+id: I2F3FF047
+default_language: bo
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:21:12.089641+00:00
+last_modified: 2022-12-14 18:21:12.089647+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-03-26T15:28:17.884Z'
+  creationid: celso
+  eft-text-id: UT22084-046-001
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_95-The_Play_in_Full-v1
+bases:
+  EDEB:
+    source_metadata: null
+    order: 1
+    base_file: EDEB.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
